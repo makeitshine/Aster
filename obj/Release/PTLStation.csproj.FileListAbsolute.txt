@@ -1,0 +1,43 @@
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Release\PodpitkaWindow.g.cs
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Release\LogInWindow.g.cs
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Release\EnterCartBarcode_forReplenishment.g.cs
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Release\EnterCartBarcodeWindow.g.cs
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Release\MainWindow.g.cs
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Release\InventoryWindow.g.cs
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Release\OrderWindow.g.cs
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Release\ReplenishmentWindow.g.cs
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Release\WaitingWindow.g.cs
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Release\App.g.cs
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Release\PTLStation_Content.g.cs
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Release\PTLStation_MarkupCompile.cache
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Release\PTLStation_MarkupCompile.lref
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\bin\Release\PTLStation.exe.config
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Release\PTLStation.csprojResolveAssemblyReference.cache
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Release\PodpitkaWindow.g.cs
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Release\LogInWindow.g.cs
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Release\EnterCartBarcode_forReplenishment.g.cs
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Release\EnterCartBarcodeWindow.g.cs
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Release\MainWindow.g.cs
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Release\InventoryWindow.g.cs
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Release\OrderWindow.g.cs
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Release\ReplenishmentWindow.g.cs
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Release\WaitingWindow.g.cs
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Release\App.g.cs
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Release\PTLStation_Content.g.cs
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Release\PTLStation_MarkupCompile.cache
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Release\PTLStation_MarkupCompile.lref
+C:\Users\ww\Desktop\PTL_release\PTLStation\bin\Release\PTLStation.exe.config
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Release\PTLStation.csprojResolveAssemblyReference.cache
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Release\PodpitkaWindow.g.cs
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Release\LogInWindow.g.cs
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Release\EnterCartBarcode_forReplenishment.g.cs
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Release\EnterCartBarcodeWindow.g.cs
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Release\MainWindow.g.cs
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Release\InventoryWindow.g.cs
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Release\OrderWindow.g.cs
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Release\ReplenishmentWindow.g.cs
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Release\WaitingWindow.g.cs
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Release\App.g.cs
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Release\PTLStation_Content.g.cs
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Release\PTLStation_MarkupCompile.cache
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Release\PTLStation_MarkupCompile.lref

@@ -1,0 +1,47 @@
+﻿<Window x:Class="PTLStation.PodpitkaWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PTLStation"
+        mc:Ignorable="d"
+        Title="Окно подпитки" Height="500" Width="800" Icon="/Icon.png">
+    <Grid Background="#FFA3A3A3">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="61*"/>
+            <RowDefinition Height="32*"/>
+            <RowDefinition Height="330*"/>
+            <RowDefinition Height="47*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Left" Margin="10,39,0,0" TextWrapping="Wrap" Text="Подпитка" VerticalAlignment="Top" FontSize="16" Height="27" Width="98" Background="White" Foreground="#FF8F089A" FontWeight="Bold" Grid.RowSpan="2" TextAlignment="Center"/>
+        <ScrollViewer HorizontalAlignment="Stretch" Margin="10,0.2,9.6,10.2" Grid.Row="2" VerticalAlignment="Stretch" Grid.ColumnSpan="2" VerticalScrollBarVisibility="Visible" Background="White">
+
+            <StackPanel x:Name="OrdersPanel" Orientation="Vertical">
+
+            </StackPanel>
+        </ScrollViewer>
+        <Button x:Name="finish_button" Content="Прервать" Grid.Column="1" HorizontalAlignment="Right" Margin="0,4.8,9.6,5.4" Grid.Row="3" VerticalAlignment="Stretch" Width="106" Click="finish_button_Click" Background="#FF8F089A" FontWeight="Bold" BorderBrush="{x:Null}" Foreground="White"/>
+        <Button x:Name="print_button" Content="Печать" Grid.Column="1" HorizontalAlignment="Left" Margin="158,5,0,5" Grid.Row="3" VerticalAlignment="Stretch" Width="106" Click="print_button_Click" Background="#FF8F089A" FontWeight="Bold" BorderBrush="{x:Null}" Foreground="White"/>
+        <Grid Margin="10,5,10,0" Grid.Row="1" Grid.ColumnSpan="2" Background="#FF8F089A">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="4*"/>
+                <ColumnDefinition Width="0*"/>
+                <ColumnDefinition Width="25*"/>
+                <ColumnDefinition Width="15*"/>
+                <ColumnDefinition Width="15*"/>
+                <ColumnDefinition Width="18*"/>
+                <ColumnDefinition Width="5*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock TextAlignment="Center" VerticalAlignment="Center" Grid.Column="0" FontSize="16" Text="№" Foreground="White"/>
+            <TextBlock Text="Наименование" TextAlignment="Center" VerticalAlignment="Center" Grid.Column="2" FontSize="16" Foreground="White"/>
+            <TextBlock Text="Адрес хранения" TextAlignment="Center" VerticalAlignment="Center" Grid.Column="3" FontSize="16" Foreground="White"/>
+            <TextBlock Text="Количество" TextAlignment="Center" VerticalAlignment="Center" Grid.Column="4" FontSize="16" Foreground="White"/>
+            <TextBlock Text="Подпитано" TextAlignment="Center" VerticalAlignment="Center" Grid.Column="5" FontSize="16" Foreground="White"/>
+        </Grid>
+
+    </Grid>
+</Window>

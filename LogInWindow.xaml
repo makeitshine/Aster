@@ -1,0 +1,25 @@
+﻿<Window x:Class="PTLStation.LogInWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PTLStation"
+        mc:Ignorable="d"
+        Title="Введите имя пользователя и пароль" Height="180" Width="400" ResizeMode="NoResize" Icon="/Icon.png">
+    <Grid Margin="0,0,-0.4,0.4" Background="#FFA3A3A3">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="131*"/>
+            <ColumnDefinition Width="163*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <TextBlock HorizontalAlignment="Right" Margin="10" TextWrapping="Wrap" Text="Имя пользователя" VerticalAlignment="Center" Grid.Row="0" Grid.Column="0" FontSize="16" FontWeight="Bold" Foreground="Black"/>
+        <TextBlock HorizontalAlignment="Right" Margin="10" TextWrapping="Wrap" Text="Пароль" VerticalAlignment="Center" Grid.Row="1" Grid.Column="0" FontSize="16" Foreground="Black" FontWeight="Bold"/>
+        <TextBox x:Name="userName" Margin="10" TextWrapping="Wrap" VerticalAlignment="Center" TextChanged="textBox_TextChanged" Grid.Row="0" Grid.Column="1" FontSize="16"/>
+        <PasswordBox x:Name="password" Margin="10" VerticalAlignment="Center" Grid.Row="1" Grid.Column="1" FontSize="16"/>
+        <Button x:Name="button" Content="Войти" Grid.Column="1" HorizontalAlignment="Right" Grid.Row="2" VerticalAlignment="Center" Width="75" Margin="10" Click="button_Click" FontSize="16"/>
+    </Grid>
+</Window>

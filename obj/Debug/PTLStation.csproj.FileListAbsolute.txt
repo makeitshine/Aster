@@ -1,0 +1,321 @@
+c:\users\denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\bin\Debug\PTLStation.exe.config
+c:\users\denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\bin\Debug\PTLStation.exe
+c:\users\denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\bin\Debug\PTLStation.pdb
+c:\users\denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\obj\Debug\MainWindow.g.cs
+c:\users\denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\obj\Debug\App.g.cs
+c:\users\denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\obj\Debug\PTLStation_MarkupCompile.cache
+c:\users\denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\obj\Debug\PTLStation_MarkupCompile.lref
+c:\users\denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\obj\Debug\MainWindow.baml
+c:\users\denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\obj\Debug\PTLStation.g.resources
+c:\users\denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\obj\Debug\PTLStation.Properties.Resources.resources
+c:\users\denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\obj\Debug\PTLStation.csproj.GenerateResource.Cache
+c:\users\denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\obj\Debug\PTLStation.exe
+c:\users\denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\obj\Debug\PTLStation.pdb
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\PTLStation\PTLStation\bin\Debug\MySql.Data.dll
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\PTLStation\PTLStation\obj\Debug\PTLStation_Content.g.cs
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\PTLStation\PTLStation\obj\Debug\WaitingWIndow.g.cs
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\PTLStation\PTLStation\obj\Debug\WaitingWIndow.baml
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\PTLStation\PTLStation\obj\Debug\OrderWindow.g.cs
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\PTLStation\PTLStation\obj\Debug\OrderWindow.baml
+C:\Users\Denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\obj\Debug\EnterCartBarcodeWindow.g.cs
+C:\Users\Denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\obj\Debug\EnterCartBarcodeWindow.baml
+C:\Users\Denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\obj\Debug\ReplenishmentWindow.baml
+C:\Users\Denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\obj\Debug\EnterCartBarcode_forReplenishment.g.cs
+C:\Users\Denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\obj\Debug\ReplenishmentWindow.g.cs
+C:\Users\Denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\obj\Debug\EnterCartBarcode_forReplenishment.baml
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\PTLStation\PTLStation\obj\Debug\InventoryWindow.g.cs
+C:\Users\Denis\Documents\Visual Studio 2015\Projects\PTLStation\PTLStation\obj\Debug\InventoryWindow.baml
+C:\Users\Denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\obj\Debug\LogInWindow.g.cs
+C:\Users\Denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\obj\Debug\LogInWindow.baml
+C:\Users\Denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\obj\Debug\PTLStation.csprojResolveAssemblyReference.cache
+C:\Users\Denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\obj\Debug\PodpitkaWindow.g.cs
+C:\Users\Denis\documents\visual studio 2015\Projects\PTLStation\PTLStation\obj\Debug\PodpitkaWindow.baml
+C:\Users\ww\Desktop\PTLStation\PTLStation\bin\Debug\PTLStation.exe.config
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\PTLStation.exe
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\PTLStation.pdb
+C:\Users\ww\Desktop\PTLStation\PTLStation\bin\Debug\PTLStation.exe
+C:\Users\ww\Desktop\PTLStation\PTLStation\bin\Debug\PTLStation.pdb
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\PTLStation.csprojResolveAssemblyReference.cache
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\PodpitkaWindow.g.cs
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\LogInWindow.g.cs
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\EnterCartBarcode_forReplenishment.g.cs
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\EnterCartBarcodeWindow.g.cs
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\MainWindow.g.cs
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\InventoryWindow.g.cs
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\OrderWindow.g.cs
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\ReplenishmentWindow.g.cs
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\WaitingWindow.g.cs
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\App.g.cs
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\PTLStation_Content.g.cs
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\PTLStation_MarkupCompile.cache
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\PTLStation_MarkupCompile.lref
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\PodpitkaWindow.baml
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\LogInWindow.baml
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\EnterCartBarcode_forReplenishment.baml
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\EnterCartBarcodeWindow.baml
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\MainWindow.baml
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\InventoryWindow.baml
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\OrderWindow.baml
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\ReplenishmentWindow.baml
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\WaitingWindow.baml
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\PTLStation.g.resources
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\PTLStation.Properties.Resources.resources
+C:\Users\ww\Desktop\PTLStation\PTLStation\obj\Debug\PTLStation.csproj.GenerateResource.Cache
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\bin\Debug\PTLStation.exe.config
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\PTLStation.exe
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\PTLStation.pdb
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\PTLStation.csprojResolveAssemblyReference.cache
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\PodpitkaWindow.g.cs
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\LogInWindow.g.cs
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\EnterCartBarcode_forReplenishment.g.cs
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\EnterCartBarcodeWindow.g.cs
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\MainWindow.g.cs
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\InventoryWindow.g.cs
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\OrderWindow.g.cs
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\ReplenishmentWindow.g.cs
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\WaitingWindow.g.cs
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\App.g.cs
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\PTLStation_Content.g.cs
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\PTLStation_MarkupCompile.cache
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\PTLStation_MarkupCompile.lref
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\bin\Debug\PTLStation.exe
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\bin\Debug\PTLStation.pdb
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\PodpitkaWindow.baml
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\LogInWindow.baml
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\EnterCartBarcode_forReplenishment.baml
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\EnterCartBarcodeWindow.baml
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\MainWindow.baml
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\InventoryWindow.baml
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\OrderWindow.baml
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\ReplenishmentWindow.baml
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\WaitingWindow.baml
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\PTLStation.g.resources
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\PTLStation.Properties.Resources.resources
+C:\Users\ww\Desktop\Задание\PTLStation\PTLStation\obj\Debug\PTLStation.csproj.GenerateResource.Cache
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\bin\Debug\PTLStation.exe.config
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\bin\Debug\PTLStation.exe
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\bin\Debug\PTLStation.pdb
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\PTLStation.csprojResolveAssemblyReference.cache
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\PodpitkaWindow.g.cs
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\LogInWindow.g.cs
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\EnterCartBarcode_forReplenishment.g.cs
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\EnterCartBarcodeWindow.g.cs
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\MainWindow.g.cs
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\InventoryWindow.g.cs
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\OrderWindow.g.cs
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\ReplenishmentWindow.g.cs
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\WaitingWindow.g.cs
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\App.g.cs
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\PTLStation_Content.g.cs
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\PTLStation_MarkupCompile.cache
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\PTLStation_MarkupCompile.lref
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\PodpitkaWindow.baml
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\LogInWindow.baml
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\EnterCartBarcode_forReplenishment.baml
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\EnterCartBarcodeWindow.baml
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\MainWindow.baml
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\InventoryWindow.baml
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\OrderWindow.baml
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\ReplenishmentWindow.baml
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\WaitingWindow.baml
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\PTLStation.g.resources
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\PTLStation.Properties.Resources.resources
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\PTLStation.csproj.GenerateResource.Cache
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\PTLStation.csproj.CoreCompileInputs.cache
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\PTLStation.exe
+C:\Users\Ayan Zhansultanov\Desktop\Задание_Old\Задание\PTLStation\PTLStation\obj\Debug\PTLStation.pdb
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\bin\Debug\PTLStation.exe.config
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\PTLStation.exe
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\PTLStation.pdb
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\bin\Debug\PTLStation.exe
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\bin\Debug\PTLStation.pdb
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\PTLStation.csprojResolveAssemblyReference.cache
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\PodpitkaWindow.g.cs
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\LogInWindow.g.cs
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\EnterCartBarcode_forReplenishment.g.cs
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\EnterCartBarcodeWindow.g.cs
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\MainWindow.g.cs
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\InventoryWindow.g.cs
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\OrderWindow.g.cs
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\ReplenishmentWindow.g.cs
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\WaitingWindow.g.cs
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\App.g.cs
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\PTLStation_Content.g.cs
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\PTLStation_MarkupCompile.cache
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\PTLStation_MarkupCompile.lref
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\PodpitkaWindow.baml
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\LogInWindow.baml
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\EnterCartBarcode_forReplenishment.baml
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\EnterCartBarcodeWindow.baml
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\MainWindow.baml
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\InventoryWindow.baml
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\OrderWindow.baml
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\ReplenishmentWindow.baml
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\WaitingWindow.baml
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\PTLStation.g.resources
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\PTLStation.Properties.Resources.resources
+C:\Users\ww\Desktop\PTL_Atamiras\Задание\PTLStation\PTLStation\obj\Debug\PTLStation.csproj.GenerateResource.Cache
+C:\Users\ww\Desktop\PTL_release\PTLStation\bin\Debug\PTLStation.exe.config
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\PTLStation.exe
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\PTLStation.pdb
+C:\Users\ww\Desktop\PTL_release\PTLStation\bin\Debug\PTLStation.exe
+C:\Users\ww\Desktop\PTL_release\PTLStation\bin\Debug\PTLStation.pdb
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\PodpitkaWindow.g.cs
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\LogInWindow.g.cs
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\EnterCartBarcode_forReplenishment.g.cs
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\EnterCartBarcodeWindow.g.cs
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\MainWindow.g.cs
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\InventoryWindow.g.cs
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\OrderWindow.g.cs
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\ReplenishmentWindow.g.cs
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\WaitingWindow.g.cs
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\App.g.cs
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\PTLStation_Content.g.cs
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\PTLStation_MarkupCompile.cache
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\PTLStation_MarkupCompile.lref
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\PodpitkaWindow.baml
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\LogInWindow.baml
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\EnterCartBarcode_forReplenishment.baml
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\EnterCartBarcodeWindow.baml
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\MainWindow.baml
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\InventoryWindow.baml
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\OrderWindow.baml
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\ReplenishmentWindow.baml
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\WaitingWindow.baml
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\PTLStation.g.resources
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\PTLStation.Properties.Resources.resources
+C:\Users\ww\Desktop\PTL_release\PTLStation\obj\Debug\PTLStation.csproj.GenerateResource.Cache
+F:\PTL_release\PTLStation\bin\Debug\PTLStation.exe.config
+F:\PTL_release\PTLStation\obj\Debug\PTLStation.exe
+F:\PTL_release\PTLStation\obj\Debug\PTLStation.pdb
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\bin\Debug\PTLStation.exe.config
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\PTLStation.exe
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\PTLStation.pdb
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\bin\Debug\PTLStation.exe
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\bin\Debug\PTLStation.pdb
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\PTLStation.csprojResolveAssemblyReference.cache
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\PodpitkaWindow.g.cs
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\LogInWindow.g.cs
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\EnterCartBarcode_forReplenishment.g.cs
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\EnterCartBarcodeWindow.g.cs
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\MainWindow.g.cs
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\InventoryWindow.g.cs
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\OrderWindow.g.cs
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\ReplenishmentWindow.g.cs
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\WaitingWindow.g.cs
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\App.g.cs
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\PTLStation_Content.g.cs
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\PTLStation_MarkupCompile.cache
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\PTLStation_MarkupCompile.lref
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\PodpitkaWindow.baml
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\LogInWindow.baml
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\EnterCartBarcode_forReplenishment.baml
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\EnterCartBarcodeWindow.baml
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\MainWindow.baml
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\InventoryWindow.baml
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\OrderWindow.baml
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\ReplenishmentWindow.baml
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\WaitingWindow.baml
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\PTLStation.g.resources
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\PTLStation.Properties.Resources.resources
+C:\Users\ww\Desktop\PTL\PTL_release\PTLStation\obj\Debug\PTLStation.csproj.GenerateResource.Cache
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\bin\Debug\PTLStation.exe.config
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\bin\Debug\PTLStation.exe
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\bin\Debug\PTLStation.pdb
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\PTLStation.csprojAssemblyReference.cache
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\PodpitkaWindow.g.cs
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\LogInWindow.g.cs
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\EnterCartBarcode_forReplenishment.g.cs
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\EnterCartBarcodeWindow.g.cs
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\MainWindow.g.cs
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\InventoryWindow.g.cs
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\OrderWindow.g.cs
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\ReplenishmentWindow.g.cs
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\WaitingWindow.g.cs
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\App.g.cs
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\PTLStation_Content.g.cs
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\PTLStation_MarkupCompile.cache
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\PTLStation_MarkupCompile.lref
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\PodpitkaWindow.baml
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\LogInWindow.baml
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\EnterCartBarcode_forReplenishment.baml
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\EnterCartBarcodeWindow.baml
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\MainWindow.baml
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\InventoryWindow.baml
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\OrderWindow.baml
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\ReplenishmentWindow.baml
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\WaitingWindow.baml
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\PTLStation.g.resources
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\PTLStation.Properties.Resources.resources
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\PTLStation.csproj.GenerateResource.cache
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\PTLStation.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\PTLStation.csproj.CopyComplete
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\PTLStation.exe
+D:\Projects\C# Projects\PTL\PTL_release\PTLStation\obj\Debug\PTLStation.pdb
+C:\Users\WW\Desktop\PTL_release\PTLStation\obj\Debug\PTLStation.csprojAssemblyReference.cache
+C:\Users\WW\Desktop\PTL_release\PTLStation\obj\Debug\PTLStation.csproj.CoreCompileInputs.cache
+C:\Users\WW\Desktop\PTL_release\PTLStation\obj\Debug\PTLStation.csproj.CopyComplete
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\bin\Debug\PTLStation.exe.config
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\bin\Debug\PTLStation.exe
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\bin\Debug\PTLStation.pdb
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\PTLStation.csprojAssemblyReference.cache
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\PodpitkaWindow.g.cs
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\LogInWindow.g.cs
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\EnterCartBarcode_forReplenishment.g.cs
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\EnterCartBarcodeWindow.g.cs
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\MainWindow.g.cs
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\InventoryWindow.g.cs
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\OrderWindow.g.cs
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\ReplenishmentWindow.g.cs
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\WaitingWindow.g.cs
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\App.g.cs
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\PTLStation_Content.g.cs
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\PTLStation_MarkupCompile.cache
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\PTLStation_MarkupCompile.lref
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\PodpitkaWindow.baml
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\LogInWindow.baml
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\EnterCartBarcode_forReplenishment.baml
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\EnterCartBarcodeWindow.baml
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\MainWindow.baml
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\InventoryWindow.baml
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\OrderWindow.baml
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\ReplenishmentWindow.baml
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\WaitingWindow.baml
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\PTLStation.g.resources
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\PTLStation.Properties.Resources.resources
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\PTLStation.csproj.GenerateResource.cache
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\PTLStation.csproj.CopyComplete
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\PTLStation.exe
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release\PTLStation\obj\Debug\PTLStation.pdb
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\bin\Debug\PTLStation.exe.config
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\bin\Debug\PTLStation.exe
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\bin\Debug\PTLStation.pdb
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\PTLStation.csprojAssemblyReference.cache
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\PodpitkaWindow.g.cs
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\LogInWindow.g.cs
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\EnterCartBarcode_forReplenishment.g.cs
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\EnterCartBarcodeWindow.g.cs
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\MainWindow.g.cs
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\InventoryWindow.g.cs
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\OrderWindow.g.cs
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\ReplenishmentWindow.g.cs
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\WaitingWindow.g.cs
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\App.g.cs
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\PTLStation_Content.g.cs
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\PTLStation_MarkupCompile.cache
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\PTLStation_MarkupCompile.lref
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\PodpitkaWindow.baml
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\LogInWindow.baml
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\EnterCartBarcode_forReplenishment.baml
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\EnterCartBarcodeWindow.baml
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\MainWindow.baml
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\InventoryWindow.baml
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\OrderWindow.baml
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\ReplenishmentWindow.baml
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\WaitingWindow.baml
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\PTLStation.g.resources
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\PTLStation.Properties.Resources.resources
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\PTLStation.csproj.GenerateResource.cache
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\PTLStation.csproj.CopyComplete
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\PTLStation.exe
+C:\Users\WW\Desktop\Folders\Aster labs\PTL_release_no_queue\PTLStation\obj\Debug\PTLStation.pdb

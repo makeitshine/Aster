@@ -1,0 +1,178 @@
+﻿<Window x:Class="PTLStation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PTLStation"
+        mc:Ignorable="d"
+        Title="PTL Станция" Height="700" Width="1001" Icon="/Icon.png" WindowState="Maximized"  Background="#FFA3A3A3">
+    <Grid Margin="9" Background="#FFA3A3A3">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="7"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="37*"/>
+            <ColumnDefinition Width="205*"/>
+            <ColumnDefinition Width="7"/>
+            <ColumnDefinition Width="242*"/>
+        </Grid.ColumnDefinitions>
+
+        <!--<GridSplitter Grid.Column="1" HorizontalAlignment="Stretch"/>-->
+        <TabControl Grid.Row="0" Background="#FFA3A3A3" Grid.ColumnSpan="3" Margin="0,0,7,6.8" Grid.RowSpan="2" BorderBrush="{x:Null}">
+            <TabItem x:Name="sborka" Header="Сборка" FontSize="15" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="#FF324FB3" Margin="2,-2,-22.4,-2" FontWeight="Bold" >
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*"/>
+                        <RowDefinition Height="11*"/>
+                        <RowDefinition Height="2*"/>
+                    </Grid.RowDefinitions>
+                    <Grid Background="#FF324FB3" Margin="1,0,0.6,0.2">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="5*"/>
+                            <ColumnDefinition Width="3*"/>
+                            <ColumnDefinition Width="17"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Наименование заказа" HorizontalAlignment="Left" TextAlignment="Center" VerticalAlignment="Center" FontSize="12" Margin="5, 1, 5, 1" Foreground="White" FontWeight="Normal"/>
+                        <TextBlock Text="Количество товаров" HorizontalAlignment="Center" TextAlignment="Center" VerticalAlignment="Center" FontSize="12" Margin="5, 1, 5, 1" Grid.Column="1" Foreground="White" FontWeight="Normal"/>
+                    </Grid>
+                    <Border Background="White" BorderThickness="1" Margin="0,0,1,0" Grid.Row="1">
+                        <ScrollViewer FontWeight="Normal" FontSize="12" Margin="0.2,0.2,-0.4,-0.4">
+                            <StackPanel x:Name="Collect_sp" Margin="5" Orientation="Vertical" />
+                        </ScrollViewer>
+                    </Border>
+
+                    <Button x:Name="Collect_but" HorizontalAlignment="Right" Content="Начать сборку" Margin="0,10,0,0" Grid.Row="2" FontSize="15" Background="#FF324FB3" Focusable="False" Click="Collect_but_Click" Foreground="White" BorderBrush="{x:Null}" Width="156"/>
+                    <Button x:Name="Refresh" HorizontalAlignment="Left" Content="Обновить" Margin="0,10,0,0" Grid.Row="2" FontSize="15" Background="#FF324FB3" Focusable="False" Click="Refresh_but_Click" Foreground="White" BorderBrush="{x:Null}" Width="156"/>
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <TabControl Grid.Row="2" Background="#FFA3A3A3" Grid.ColumnSpan="3" Margin="0,0.2,7,0.4" BorderBrush="{x:Null}">
+            <TabItem x:Name="zagruzka" Header="Загрузка" FontSize="15" Background="Gainsboro" BorderBrush="{x:Null}" Foreground="#FFE7D700" Margin="2,-2,-21,-1" FontWeight="Bold" >
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*"/>
+                        <RowDefinition Height="11*"/>
+                        <RowDefinition Height="2*"/>
+                    </Grid.RowDefinitions>
+                    <Grid Background="#FFE7D700" Margin="1, 0, 1, 0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="5*"/>
+                            <ColumnDefinition Width="3*"/>
+                            <ColumnDefinition Width="17"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Штрих-код корзины" HorizontalAlignment="Left" TextAlignment="Center" VerticalAlignment="Center" FontSize="12" Margin="5, 1, 5, 1" Foreground="Black" FontWeight="Normal"/>
+                        <TextBlock Text="Количество товаров" HorizontalAlignment="Center" TextAlignment="Center" VerticalAlignment="Center" FontSize="12" Margin="5, 1, 5, 1" Grid.Column="1" FontWeight="Normal" Foreground="Black"/>
+                    </Grid>
+                    <Border Grid.Row="1" Background="White" BorderThickness="1" Margin="0,0.6,0.6,0">
+                        <ScrollViewer FontWeight="Normal" Margin="-1,-1,1,1" Foreground="Black" >
+                            <StackPanel x:Name="Replenish_sp" Margin="5" Orientation="Vertical"/>
+                        </ScrollViewer>
+                    </Border>
+                    <Button x:Name="Replenish_but" HorizontalAlignment="Right" Content="Начать загрузку" Margin="0,5,0.6,4.6" Grid.Row="2" FontSize="15" Background="#FFE7D700" Focusable="False" Click="Replenish_but_Click" BorderBrush="{x:Null}" Foreground="Black" Width="150"/>
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <!--</Grid>-->
+        <TabControl Grid.Column="3" Grid.Row="0" Background="#FFA3A3A3" Margin="0,0,0,6.8" Grid.RowSpan="2" BorderBrush="{x:Null}">
+            <TabItem x:Name="inventory" Header="Инвентаризация" FontSize="15" Background="Gainsboro" BorderBrush="{x:Null}" Foreground="#FFDA3F3F" FontWeight="Bold" Margin="2,-2,-2,-1">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*"/>
+                        <RowDefinition Height="11*"/>
+                        <RowDefinition Height="2*"/>
+                    </Grid.RowDefinitions>
+                    <Grid Background="#FFDA3F3F" Margin="1,0,1.2,0.2">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="5*"/>
+                            <ColumnDefinition Width="3*"/>
+                            <ColumnDefinition Width="17"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Дата инвентаризации" HorizontalAlignment="Left" TextAlignment="Center" VerticalAlignment="Center" FontSize="12" Margin="5, 1, 5, 1" FontWeight="Normal" Foreground="White"/>
+                        <TextBlock Text="Количество товаров" HorizontalAlignment="Center" TextAlignment="Center" VerticalAlignment="Center" FontSize="12" Margin="5, 1, 5, 1" Grid.Column="1" FontWeight="Normal" Foreground="White"/>
+                    </Grid>
+                    <Border Grid.Row="1" Background="White" BorderThickness="1" Margin="1,0">
+                        <ScrollViewer FontWeight="Normal" Margin="0.2,0.2,-0.4,0.6" >
+                            <StackPanel x:Name="Inventory_sp" Margin="5" Orientation="Vertical"/>
+
+                        </ScrollViewer>
+                    </Border>
+                    <Button x:Name="Inventory_button" HorizontalAlignment="Right" Content="Инвентаризация" Margin="0,10.4,1.2,0.2" Grid.Row="2" FontSize="15" Background="#FFDA3F3F" Focusable="False" Click="inventory_button_Click" BorderBrush="{x:Null}" Foreground="White" Width="157"/>
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <TabControl Visibility="Hidden" Grid.Column="3" Grid.Row="2" Background="{x:Null}" Margin="0,0.2,0,0.4" BorderBrush="{x:Null}">
+            <TabItem x:Name="podpitka_tab" Header="Подпитка" FontSize="15" Background="Gainsboro" BorderBrush="{x:Null}" FontWeight="Bold" Foreground="#FF8F089A" Margin="2,-2,-2,-1">
+                <Grid Background="#FFA3A3A3">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*"/>
+                        <RowDefinition Height="11*"/>
+                        <RowDefinition Height="2*"/>
+                    </Grid.RowDefinitions>
+                    <Grid Background="#FF8F089A" Margin="1, 0, 1, 0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="5*"/>
+                            <ColumnDefinition Width="3*"/>
+                            <ColumnDefinition Width="17"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Наименование документа" HorizontalAlignment="Left" TextAlignment="Center" VerticalAlignment="Center" FontSize="12" Margin="5, 1, 5, 1" FontWeight="Normal" Foreground="White"/>
+                        <TextBlock Text="Количество товаров" HorizontalAlignment="Center" TextAlignment="Center" VerticalAlignment="Center" FontSize="12" Margin="5, 1, 5, 1" Grid.Column="1" FontWeight="Normal" Foreground="White"/>
+                    </Grid>
+                    <Border Grid.Row="1" Background="White" BorderThickness="1" Margin="0,0.6,1.2,0">
+                        <ScrollViewer FontWeight="Normal">
+                            <StackPanel x:Name="podpitka_sp" Margin="5" Orientation="Vertical"/>
+                        </ScrollViewer>
+                    </Border>
+
+                    <Button x:Name="podpitka_button" HorizontalAlignment="Right" Content="Подпитка" Margin="0,5,0.2,4.6" Grid.Row="2" FontSize="15" Background="#FF8F089A" Focusable="False" Click="podpitka_button_Click" BorderBrush="{x:Null}" Foreground="White" Width="118"/>
+
+                    <!--
+                    <Button x:Name="clear_button" HorizontalAlignment="Left" Content="Очистить БД" Margin="10,5,0,5" Grid.Row="2" FontSize="15" Background="Red" Focusable="False" Click="clear_button_Click" BorderBrush="{x:Null}" Foreground="White" Width="118"/>
+
+                    <Button x:Name="clear_button2" HorizontalAlignment="Left" Content="Очистить СМАРТ" Margin="133,5,0,5" Grid.Row="2" FontSize="15" Background="Red" Focusable="False" Click="clear_button2_Click" BorderBrush="{x:Null}" Foreground="White" Width="147"/>
+                        -->
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <TabControl Grid.Column="3" Grid.Row="2" Background="{x:Null}" Margin="0,0.2,0,0.4" BorderBrush="{x:Null}">
+            <TabItem x:Name="baskets_tab" Header="Корзины" FontSize="15" Background="Gainsboro" BorderBrush="{x:Null}" FontWeight="Bold" Foreground="#FF8F089A" Margin="2,-2,-2,-1">
+                <Grid Background="#FFA3A3A3">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*"/>
+                        <RowDefinition Height="11*"/>
+                        <RowDefinition Height="2*"/>
+                    </Grid.RowDefinitions>
+                    <Grid Background="#FF8F089A" Margin="1, 0, 1, 0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="5*"/>
+                            <ColumnDefinition Width="3*"/>
+                            <ColumnDefinition Width="17"/>
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Text="Штрих-код корзины" HorizontalAlignment="Left" TextAlignment="Center" VerticalAlignment="Center" FontSize="12" Margin="5, 1, 5, 1" FontWeight="Normal" Foreground="White"/>
+                     </Grid>
+                    <Border Grid.Row="1" Background="White" BorderThickness="1" Margin="0,0.6,1.2,0">
+                        <ScrollViewer FontWeight="Normal">
+                            <StackPanel x:Name="baskets_sp" Margin="5" Orientation="Vertical"/>
+                        </ScrollViewer>
+                    </Border>
+                    <TextBox TextChanged="baskets_textbox_TextChanged" x:Name="baskets_textbox" HorizontalAlignment="Stretch" Margin="0,5,0.2,4.6" Grid.Row="2" Grid.ColumnSpan="3" FontSize="15" Background="#FF8F089A" Focusable="True" BorderBrush="{x:Null}" Foreground="White"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <!--a grid below contains the gateway statuses, shown as red if not connected, green if connected-->
+
+        <Grid x:Name="StatusGrid" Margin="7,6.6,7,6.8" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="4" Background="#FFA3A3A3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="573*"/>
+                <ColumnDefinition Width="389*"/>
+            </Grid.ColumnDefinitions>
+        </Grid>
+    </Grid>
+
+</Window>
